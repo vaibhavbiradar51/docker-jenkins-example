@@ -1,5 +1,5 @@
 FROM python:3.6
-MAINTAINER thanhnb "bathanhtlu@gmail.com"
+
 
 RUN apt-get update && apt-get -y install build-essential \
 libssl-dev libffi-dev python-dev \
