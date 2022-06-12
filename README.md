@@ -1,1 +1,1 @@
-# Django with Django + Jenkins test
+# Django with Django + Jenkins test.
